@@ -1,7 +1,5 @@
 # COSIKE
 
-## COSIKE-pytorch
-
 ## Introduction
 
 We proposed the COSIKE model, which contains four core modules: 
