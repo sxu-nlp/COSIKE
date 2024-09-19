@@ -63,3 +63,6 @@ learning_rate=7e-6
 num_epochs=5
 
 The CCAC2023 conference provided the image dataset of the M3ED dataset
+
+Attention:
+As some of the model and data files exceed the file size limit of GitHub, we have packaged and uploaded these large files to a web drive and will post the download address after the anonymous review period for the paper.
